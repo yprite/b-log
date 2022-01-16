@@ -1,0 +1,21 @@
+과거 자료를 기반으로 시뮬레이션을 해보는 것을 백테스트라고 부름
+
+
+#모든 전략은 백테스트를 통해 검증한다
+Portfolio Visualizer - www.portfoliovisualizer.com (부분 유료)
+Allocate Smartly - www.allocatesmartly.com
+Portfoliocharts - www.portfoliocharts.com
+DataSource(Investing) - www.investing.com
+
+#전략을 결정했다면 중간에 바꾸지 않는다.
+실제 투자를 시작하면 상황은 어디로 튈지 모른다.
+전략대로 매입한 주식이 갑자기 엄청나게 오를 수 있으며 이렇게 되면 처분효과가 발동
+반대로, 전략대로 매입한 ETF가 사자마자 계쏙해서 떨어질 수 있고, 손실 회피 편향 발동
+절대로 전략을 중간에 마음대로 수정하면 안됨
+사람은 각종 편향에 특화된 뇌를 가지고 있기 때문이다.
+실제 투자를 하기 전까지는 쉬워 보였던 투자가 돈을 투자하고 나면 갑자기 의미없게 느껴짐
+
+결국 우리 두뇌의 편향을 피하는 방법은 투자를 할 때 주관적인 생각은 최대한 배제한 채 검증한 
+전략대로 투자를 계속 하는 것.
+
+자기 자신을 믿지 말고 
