@@ -9,7 +9,7 @@ Public 메소드의 경우는 Javadoc의 @throws 태그를 사용해서 매개 �
 
     일반적으로 IllegalArgumentException, IndexOutOfBoundsException, NullPointerException 예외
 
-
+```
   /**
      * Returns a BigInteger whose value is {@code (this mod m}).  This method
      * differs from {@code remainder} in that it always returns a
@@ -27,7 +27,7 @@ Public 메소드의 경우는 Javadoc의 @throws 태그를 사용해서 매개 �
         BigInteger result = this.remainder(m);
         return (result.signum >= 0 ? result : result.add(m));
     }
-
+```
 
 
 외부에 공개하지 않고 패키지나 클래스 내부에서 사용하는 메소드의 경우에는 해당 패키지나 클래스의 저자인 우리가 메소드 호출 상황을 제어할 수 있음
