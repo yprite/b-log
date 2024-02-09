@@ -4,7 +4,7 @@
 - Think of these as problem-solving questions.
 - A numeric score might be assigned to your performance, but it’s not actually a quantitative assessment.
 - Rather, your interviewer will make an assessment of your performance, usually based on the following.
-- 
+
 --- 
 
 ### Why?
